@@ -40,18 +40,13 @@ OldModz95
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/crypt096/crypt096">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt096&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/OldModz95-YTB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OldModz95-YTB&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </>
-<a href="https://github.com/crypt096/crypt096">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crypt096&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Crypt0's GitHub Stats" />
+<a href="https://github.com/OldModz95-YTB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OldModz95-YTB&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Crypt0's GitHub Stats" />
 </a>
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+![DOWNLOAD](https://img.shields.io/github/downloads/OldModz95-YTB/Coding-Bot-Discord-Tool/total)
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(["🥚", "🐣", "🐥", "🐔"].sort()) >>> ["🐔", "🐣", "🐥", "🥚"];
-```
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crypt096" alt="crypt096" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OldModz95-YTB" alt="OldModz95-YTB" /> </p>
