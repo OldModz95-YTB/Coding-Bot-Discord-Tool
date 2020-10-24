@@ -10,9 +10,9 @@ OldModz95
 
 ## 📞 Contact me
 
-![Discord](https://www.discord.gg/3t2568W)
-![Twitter](https://twitter.com/oldmodz95)
-![YouTube](https://www.youtube.com/oldmodz95)
+[Discord](https://www.discord.gg/3t2568W)
+[Twitter](https://twitter.com/oldmodz95)
+[YouTube](https://www.youtube.com/oldmodz95)
 
 ## ⚔ Let's solve together 👇
 
