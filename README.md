@@ -27,16 +27,11 @@ OldModz95
 
 ###### Operating systems
 
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows&logoColor=FCC624)
 
 ###### Last Commit
 
 ![COMMIT](https://img.shields.io/github/last-commit/OldModz95-YTB/Coding-Bot-Discord-Tool)
-
-###### Container management
-
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5)
 
 ## &#x1f4c8; GitHub Stats
 
