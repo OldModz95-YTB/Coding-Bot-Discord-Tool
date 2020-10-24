@@ -1,5 +1,3 @@
-# Coding-Bot-Discord-Tool
-Coding Bot Discord Tool. Create Bot Discord Very Easy. Software Free !
 <h1 align="center">
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 OldModz95
@@ -14,73 +12,13 @@ OldModz95
 [Twitter](https://twitter.com/oldmodz95)
 [YouTube](https://www.youtube.com/oldmodz95)
 
-## ⚔ Let's solve together 👇
-
-<a href='https://www.codewars.com/users/crypt096'>
-<img src="https://www.codewars.com/users/crypt096/badges/large">
-</a>
-
-<a href='https://projecteuler.net'>
-<img src="https://projecteuler.net/profile/crypt096.png">
-</a>
-
 <br />
 
 ## 🔧 Technologies & Tools
 
-###### Frontend
+###### Status
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap&logoColor=563D7C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764ABC)
-![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=Storybook&logoColor=FF4785)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=DD0031)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js&logoColor=4FC08D)
-
-###### Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
-![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=Nodemon&logoColor=76D04B)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
-![Koa.js](https://img.shields.io/badge/-Koa.js-000000?style=flat&logo=Koa.js&logoColor=76D04B)
-![Deno](https://img.shields.io/badge/-Deno-000000?style=flat&logo=Deno&logoColor=FFFFFF)
-
-###### Database
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=336791)
-![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis&logoColor=DC382D)
-
-###### API
-
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=GraphQL&logoColor=E10098)
-
-###### Package managers
-
-![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM&logoColor=CB3837)
-![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=Yarn&logoColor=2C8EBB)
-
-###### Testing
-
-![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325)
-![Jasmine](https://img.shields.io/badge/-Jasmine-000000?style=flat&logo=Jasmine&logoColor=8A4182)
-![Karma](https://img.shields.io/badge/-Karma-000000?style=flat&logo=Karma&logoColor=8A4182)
-![Enzyme](https://img.shields.io/badge/-Enzyme-000000?style=flat&logo=Enzyme&logoColor=8A4182)
-
-###### Task runners
-
-![Grunt](https://img.shields.io/badge/-Grunt-000000?style=flat&logo=Grunt&logoColor=FBA919)
-![Gulp](https://img.shields.io/badge/-Gulp-000000?style=flat&logo=Gulp&logoColor=CF4647)
-
-###### Build tools
-
-![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack&logoColor=8DD6F9)
+![STATUS](https://img.shields.io/nodeping/status/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?down_color=red&down_message=Down&up_message=Online)
 
 ###### Version control system
 
@@ -90,11 +28,10 @@ OldModz95
 ###### Operating systems
 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=FCC624)
-![Apple](https://img.shields.io/badge/-macOS-000000?style=flat&logo=Apple&logoColor=999999)
 
-###### Deployment services
+###### Last Commit
 
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FFFFFF)
+![COMMIT](https://img.shields.io/github/last-commit/OldModz95-YTB/Coding-Bot-Discord-Tool)
 
 ###### Container management
 
